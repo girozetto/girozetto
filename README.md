@@ -1,85 +1,69 @@
-# Gilberto Alexandre - Desenvolvedor de Software
 
-## 👋 Introdução
-Olá! Sou Gilberto de Jesus, um Programador de Aplicações apaixonado por tecnologia e desenvolvimento. Trabalho para transformar ideias em realidade com minha experiência em diversas linguagens de programação e ferramentas.
+# Gilberto Alexandre - Passionate Software Developer
 
-## 🌐 Sobre Mim
-- **Línguas**: Português, Inglês, Espanhol
-- **Hobbies**: Programação, Futebol, eSports, Jogos de Computador, Corrida
-- **Objetivo**: Tornar-me um Desenvolvedor Sênior
+## 👋 A Bit More About Gilberto Alexandre
+Hello! I'm Gilberto de Jesus, a passionate Applications Programmer dedicated to turning ideas into reality with my experience in various programming languages and tools.
 
-## 💼 Experiência Profissional
+## 💼 Professional Experiences
 
-- **Programador de Aplicações Júnior @ Inove Angola** (06/2023 - Presente)
-  - Análise e correção de código.
-  - Desenvolvimento em ambiente .NET Framework.
-  - Implementação de princípios SOLID e Design Patterns.
-
-- **Estagiário - Programador Backend @ Comofa Technology** (10/2021 - 01/2022)
-  - Implementação dos padrões MVC.
-  - Desenvolvimento de aplicações para dispositivos móveis Android.
-  - Planejamento de estratégias para desenvolvimento de software.
-
-## 📚 Formação Acadêmica
-- **Graduação em Engenharia Informática** - Universidade de Tecnologia de Angola (2020 - 2024)
-
-## 🔧 Habilidades Técnicas
-- Linguagens de Programação: C#, Java, Python
-- Desenvolvimento Web: HTML, CSS, JavaScript, PHP, ASP.NET
-- Frameworks e Ferramentas: .NET, MVC, Android Studio, NodeJS
-
-## 🚀 Projetos Pessoais/Profissionais
 ### Momento24 (Freelancer)
-**Duração:** 1 mês (Sep - Oct 2023)
-**Habilidades:** API, Node.js, PostgreSQL, Express
-**Atividades:** Projetei e implementei uma API de notícias atualizadas para o site [Momento24](https://www.momento24.co.ao).
+**Duration:** 1 month (Sep - Oct 2023)
+**Skills:** API, Node.js, PostgreSQL, Express
+**Activities:** Designed and implemented an updated news API for the website [Momento24](https://www.momento24.co.ao).
 
-### PMESalarios (Pequena/Média Empresa)
-**Duração:** 3 meses (Sep 2023 - Hoje)
-**Habilidades:** ASP.NET MVC, VB .NET, JavaScript, API
-**Atividades:** Corrigi falhas e mantive o sistema de processamento de salários no site [PMESalarios](https://processamentodesalarios.pt).
+### PMESalarios (Small/Medium Company)
+**Duration:** 3 months (Sep 2023 - Present)
+**Skills:** ASP.NET MVC, VB .NET, JavaScript, API
+**Activities:** Fixed flaws and maintained the Portuguese salary processing system on the site [PMESalarios](https://processamentodesalarios.pt).
 
-### InoveBox - Cliente de Email (Pequena/Média Empresa)
-**Duração:** 2 meses (Jul - Sep 2023)
-**Habilidades:** VB .NET, Design Pattern, Desktop, API
-**Atividades:** Criei uma aplicação Desktop que consome a Gmail API para um ambiente empresarial.
+### InoveBox - Email Client (Small/Medium Company)
+**Duration:** 2 months (Jul - Sep 2023)
+**Skills:** VB .NET, Design Pattern, Desktop, API
+**Activities:** Created a Desktop application that consumes the Gmail API for a business environment.
 
-### Tômbola - Jogo da Sorte (Freelancer)
-**Duração:** 2 meses (Jun - Aug 2023)
-**Habilidades:** Express, Node.js, Bootstrap, MVC
-**Atividades:** Idealizei e implementei um jogo da sorte para um estabelecimento de apostas.
+### Tômbola - Luck Game (Freelancer)
+**Duration:** 2 months (Jun - Aug 2023)
+**Skills:** Express, Node.js, Bootstrap, MVC
+**Activities:** Conceptualized and implemented a luck game for a betting establishment.
 
-### Portfólio Pessoal (Projeto Pessoal)
-**Duração:** 1 mês (Apr - May 2023)
-**Habilidades:** JavaScript, HTML, Vanilla, Bootstrap
-**Atividades:** Desenvolvi meu portfólio pessoal, disponível em [GilPortfólio](http://gilportfolio.000webhostapp.com/).
+### Personal Portfolio (Personal Project)
+**Duration:** 1 month (Apr - May 2023)
+**Skills:** JavaScript, HTML, Vanilla, Bootstrap
+**Activities:** Developed my personal portfolio, available at [gilportfolio](http://gilportfolio.000webhostapp.com/).
 
-### Blue Red Go (Projeto Pessoal)
-**Duração:** 1 mês (Oct - Nov 2022)
-**Habilidades:** Java, Java
-**Atividades:** Criei um mini-jogo em Java, visualmente semelhante ao GTA antigo do Game Boy.
+### Blue Red Go (Personal Project)
+**Duration:** 1 month (Oct - Nov 2022)
+**Skills:** Java, Java
+**Activities:** Created a mini-game in Java, visually similar to the old GTA on Game Boy.
 
-### Jogo de Lançamento de Bola (Projeto Pessoal)
-**Duração:** 1 mês (Aug - Sep 2022)
-**Habilidades:** JavaScript, HTML
-**Atividades:** Desenvolvi um jogo de lançamento de bola com tecnologias web.
+### Ball Launching Game (Personal Project)
+**Duration:** 1 month (Aug - Sep 2022)
+**Skills:** JavaScript, HTML
+**Activities:** Developed a ball launching game using web technologies with MatterJS and pure JavaScript utilizing Object-Oriented Programming.
 
 ### ChinjeuAPP (Freelancer)
-**Duração:** 1 mês (May - Jun 2022)
-**Habilidades:** PHP, Ajax, JavaScript, MySQL
-**Atividades:** Desenvolvi um aplicativo de CRUD para cadastro de suspeitos de crimes.
+**Duration:** 1 month (May - Jun 2022)
+**Skills:** PHP, Ajax, JavaScript, MySQL
+**Activities:** Developed a CRUD application for registering crime suspects.
 
 ### Glóbulos V (Freelancer)
-**Duração:** 3 meses (Dec 2021 - Mar 2022)
-**Habilidades:** Java, XML, Android Studio, SQLite
-**Atividades:** Desenvolvi um aplicativo Android para tratamento visual com XML.
+**Duration:** 3 months (Dec 2021 - Mar 2022)
+**Skills:** Java, XML, Android Studio, SQLite
+**Activities:** Developed an Android app using Java and Android Studio with XML annotations for visual treatment.
 
 ### Espaço Quissanga (Freelancer)
-**Duração:** 5 meses (Oct 2021 - Mar 2022)
-**Habilidades:** Java, Desktop, Design Pattern, MySQL
-**Atividades:** Desenvolvi um sistema de gestão para uma hospedaria e salão de festas.
+**Duration:** 5 months (Oct 2021 - Mar 2022)
+**Skills:** Java, Desktop, Design Pattern, MySQL
+**Activities:** Developed a management system for a lodge and party hall.
 
-## 📫 Contactos e Redes Sociais
+## 📚 Academic Background
+**Bachelor's Degree in Computer Engineering**
+Catholic University of Angola, 4th Year
+
+## 🚀 Objective
+To continue growing professionally, contributing to innovative projects and making a difference in the technology industry.
+
+## 📫 Contact
 - Email: [gilberto.alexandre@girozetto.com](mailto:julbertoalexandredealmeida@gmail.com)
 - LinkedIn: [linkedin.com/in/gilbertoalexandre](https://www.linkedin.com/in/gilberto-alexandre-adao-430ba224a/)
 - GitHub: [github.com/GilbertoAlexandre](https://github.com/girozetto)
