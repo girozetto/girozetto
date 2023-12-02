@@ -1,8 +1,32 @@
 
-# Gilberto Alexandre - Passionate Software Developer
+# Gilberto Alexandre - Software Developer
 
-## 👋 A Bit More About Gilberto Alexandre
-Hello! I'm Gilberto de Jesus, a passionate Applications Programmer dedicated to turning ideas into reality with my experience in various programming languages and tools.
+## 👋 Introduction
+Hello! I'm Gilberto de Jesus, a passionate Applications Programmer who loves technology and development. I work to turn ideas into reality with my experience in various programming languages and tools.
+
+## 🌐 About Me
+- **Languages**: Portuguese, English, Spanish
+- **Hobbies**: Programming, Football, eSports, Computer Games, Running
+- **Goal**: To become a Senior Developer
+
+## 💼 Professional Experience
+- **Junior Application Developer @ Inove Angola** (06/2023 - Present)
+  - Code analysis and correction.
+  - Development in .NET Framework environment.
+  - Implementation of SOLID principles and Design Patterns.
+
+- **Intern - Backend Programmer @ Comofa Technology** (10/2021 - 01/2022)
+  - Implementation of MVC patterns.
+  - Development of applications for Android devices.
+  - Planning strategies for software development.
+
+## 📚 Academic Training
+- **Bachelor's Degree in Computer Science** - University of Technology of Angola (2020 - 2024)
+
+## 🔧 Technical Skills
+- Programming Languages: C#, Java, Python
+- Web Development: HTML, CSS, JavaScript, PHP, ASP.NET
+- Frameworks and Tools: .NET, MVC, Android Studio, NodeJS, Flask
 
 ## 💼 Professional Experiences
 
@@ -56,14 +80,10 @@ Hello! I'm Gilberto de Jesus, a passionate Applications Programmer dedicated to 
 **Skills:** Java, Desktop, Design Pattern, MySQL
 **Activities:** Developed a management system for a lodge and party hall.
 
-## 📚 Academic Background
-**Bachelor's Degree in Computer Engineering**
-Catholic University of Angola, 4th Year
-
 ## 🚀 Objective
 To continue growing professionally, contributing to innovative projects and making a difference in the technology industry.
 
-## 📫 Contact
+## 📫 Contacts and Social Media
 - Email: [gilberto.alexandre@girozetto.com](mailto:julbertoalexandredealmeida@gmail.com)
 - LinkedIn: [linkedin.com/in/gilbertoalexandre](https://www.linkedin.com/in/gilberto-alexandre-adao-430ba224a/)
 - GitHub: [github.com/GilbertoAlexandre](https://github.com/girozetto)
