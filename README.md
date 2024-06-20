@@ -10,7 +10,12 @@ Hello! I'm Gilberto de Jesus, a passionate Applications Programmer who loves tec
 - **Goal**: To become a Senior Developer
 
 ## 💼 Professional Experience
-- **Junior Application Developer @ Inove Angola** (06/2023 - Present)
+- **Software Developer @ ComputedLife** (01/2024 - Present)
+  - Code and Software maintaining.
+  - Development in .NET Framework environment.
+  - Implementation of new functionalities of existing softwares and also UI/UX Design principles.
+
+- **Junior Application Developer @ Prolipol PG** (06/2023 - Present)
   - Code analysis and correction.
   - Development in .NET Framework environment.
   - Implementation of SOLID principles and Design Patterns.
@@ -24,24 +29,49 @@ Hello! I'm Gilberto de Jesus, a passionate Applications Programmer who loves tec
 - **Bachelor's Degree in Computer Science** - University of Technology of Angola (2020 - 2024)
 
 ## 🔧 Technical Skills
-- Programming Languages: C#, Java, Python
+- Programming Languages: C#, VB, Java, Python, C
 - Web Development: HTML, CSS, JavaScript, PHP, ASP.NET
-- Frameworks and Tools: .NET, MVC, Android Studio, NodeJS, Flask
+- Frameworks and Tools: .NET, MVC, Android Studio, NodeJS, Flask, Express
 
 ## 💼 Professional Experiences
+
+### Mobbi.Pro (Small/Medium Company) (ComputedLife)
+**Duration:** 5 months (Feb 2024 - current)
+**Skills:** SQLServer, ASP.NET, C#
+**Activities:** Fixed flaws, maintained and added new functionalities for the company's main product.
+
+### Chemzy (Small/Medium Company) (ComputedLife)
+**Duration:** 1 months (Mar 2024 - current)
+**Skills:** SQLServer, ASP.NET, C#
+**Activities:** Fixed flaws, maintained and added new functionalities for the company's costumers ecommerce [Chemzy](https://www.chemzy.pt/).
+
+### Hi-TechWonder (Small/Medium Company) (ComputedLife)
+**Duration:** 1 months (Mar 2024 - current)
+**Skills:** SQLServer, ASP.NET, C#
+**Activities:** Fixed flaws, maintained and added new functionalities for the company's costumers ecommerce [Hi-TechWonder](https://hi-techwonder.com/).
+
+### AquaLovers (Small/Medium Company) (ComputedLife)
+**Duration:** 1 months (Feb 2024 - current)
+**Skills:** SQLServer, ASP.NET, C#
+**Activities:** Fixed flaws, maintained and added new functionalities for the company's costumers ecommerce [Aqualovers](https://www.aqualovers.pt/).
+
+### CLAPP (Small/Medium Company) (ComputedLife)
+**Duration:** 3 months (Jan 2024 - current)
+**Skills:** Node.js, SQLServer, .NET, ASP.NET, Angular, TypeScript, C#
+**Activities:** Fixed flaws, maintained and added new functionalities for the company's internal app for employees performance analysis.
 
 ### Momento24 (Freelancer)
 **Duration:** 1 month (Sep - Oct 2023)
 **Skills:** API, Node.js, PostgreSQL, Express
 **Activities:** Designed and implemented an updated news API for the website [Momento24](https://www.momento24.co.ao).
 
-### PMESalarios (Small/Medium Company)
-**Duration:** 3 months (Sep 2023 - Present)
+### PMESalarios (Small/Medium Company) (Virtualnauta)
+**Duration:** 4 months (Sep 2023 - Jan 2024)
 **Skills:** ASP.NET MVC, VB .NET, JavaScript, API
 **Activities:** Fixed flaws and maintained the Portuguese salary processing system on the site [PMESalarios](https://processamentodesalarios.pt).
 
-### InoveBox - Email Client (Small/Medium Company)
-**Duration:** 2 months (Jul - Sep 2023)
+### InoveBox - Email Client (Small/Medium Company) (Virtualnauta)
+**Duration:** 3 months (Jul - Sep 2023)
 **Skills:** VB .NET, Design Pattern, Desktop, API
 **Activities:** Created a Desktop application that consumes the Gmail API for a business environment.
 
@@ -53,7 +83,7 @@ Hello! I'm Gilberto de Jesus, a passionate Applications Programmer who loves tec
 ### Personal Portfolio (Personal Project)
 **Duration:** 1 month (Apr - May 2023)
 **Skills:** JavaScript, HTML, Vanilla, Bootstrap
-**Activities:** Developed my personal portfolio, available at [gilportfolio](http://gilportfolio.000webhostapp.com/).
+**Activities:** Developed my personal portfolio, available at [GilPortfolio](http://gilportfolio.rf.gd/).
 
 ### Blue Red Go (Personal Project)
 **Duration:** 1 month (Oct - Nov 2022)
