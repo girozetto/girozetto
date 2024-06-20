@@ -26,7 +26,7 @@ Hello! I'm Gilberto de Jesus, a passionate Applications Programmer who loves tec
   - Planning strategies for software development.
 
 ## 📚 Academic Training
-- **Bachelor's Degree in Computer Science** - University of Technology of Angola (2020 - 2024)
+- **Bachelor's Degree in Computer Science** - University of Technology of Angola (2020 - 2025)
 
 ## 🔧 Technical Skills
 - Programming Languages: C#, VB, Java, Python, C
