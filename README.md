@@ -1,123 +1,283 @@
+<div align="center">
 
-# Gilberto Alexandre - Software Developer
+# 👋 Gilberto Alexandre
 
-## 👋 Introduction
-Hello! I'm Gilberto de Jesus, a passionate Applications Programmer who loves technology and development. I work to turn ideas into reality with my experience in various programming languages and tools.
+**Full Stack Developer | Software Engineer | Tech Enthusiast**
 
-## 🌐 About Me
-- **Languages**: Portuguese, English, Spanish
-- **Hobbies**: Programming, Football, eSports, Computer Games, Running
-- **Goal**: To become a Senior Developer
+[![GitHub](https://img.shields.io/badge/GitHub-@girozetto-black?logo=github&style=flat-square)](https://github.com/girozetto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilberto_Alexandre-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/gilberto-alexandre-adao-430ba224a/)
+[![Email](https://img.shields.io/badge/Email-gilberto.alexandre%40girozetto.com-red?logo=gmail&style=flat-square)](mailto:gilberto.alexandre@girozetto.com)
+[![Codewars](https://img.shields.io/badge/Codewars-5_kyu-success?logo=codewars&style=flat-square)](https://www.codewars.com/users/GiroZetto)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **Full Stack Developer** with a strong background in building scalable applications across multiple platforms. I love turning complex ideas into elegant, efficient solutions using modern technologies. Currently focused on **TypeScript**, **Node.js**, and **Cloud Development**.
+
+- 🎓 Bachelor's in Computer Science - University of Technology of Angola (2020 - 2025)
+- 🏢 Software Developer @ **ComputedLife** (2024 - Present)
+- 🌍 **Languages**: Portuguese 🇦🇴 | English 🇬🇧 | Spanish 🇪🇸
+- 🎯 **Goal**: Become a Senior Full Stack Developer
+- 🎮 **Hobbies**: Programming | Football ⚽ | eSports | Gaming | Running 🏃
+
+---
+
+## 🛠️ Technical Stack
+
+### 📱 Frontend & Mobile
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+
+### 🔧 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=flat-square)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+
+### 🏗️ Architecture & Tools
+![MVC](https://img.shields.io/badge/MVC-Pattern-blueviolet?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-blueviolet?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design-Patterns-blueviolet?style=flat-square)
+![REST API](https://img.shields.io/badge/REST-API-green?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+
+---
 
 ## 💼 Professional Experience
-- **Software Developer @ ComputedLife** (01/2024 - Present)
-  - Code and Software maintaining.
-  - Development in .NET Framework environment.
-  - Implementation of new functionalities of existing softwares and also UI/UX Design principles.
 
-- **Junior Application Developer @ Prolipol PG** (06/2023 - Present)
-  - Code analysis and correction.
-  - Development in .NET Framework environment.
-  - Implementation of SOLID principles and Design Patterns.
+### 🏢 Software Developer @ **ComputedLife** (Jan 2024 - Present)
+**Full Stack Development for Multiple Enterprise Solutions**
 
-- **Intern - Backend Programmer @ Comofa Technology** (10/2021 - 01/2022)
-  - Implementation of MVC patterns.
-  - Development of applications for Android devices.
-  - Planning strategies for software development.
+#### Key Projects:
+- **Mobbi.Pro** (5+ months)
+  - Core product maintenance and enhancement
+  - Tech: `ASP.NET` | `C#` | `SQL Server`
+  - Implemented new features and fixed critical bugs
 
-## 📚 Academic Training
-- **Bachelor's Degree in Computer Science** - University of Technology of Angola (2020 - 2025)
+- **Chemzy eCommerce** (3+ months)
+  - Complete eCommerce platform maintenance
+  - Tech: `ASP.NET` | `C#` | `SQL Server`
+  - [Visit Chemzy](https://www.chemzy.pt/)
 
-## 🔧 Technical Skills
-- Programming Languages: C#, VB, Java, Python, C
-- Web Development: HTML, CSS, JavaScript, PHP, ASP.NET
-- Frameworks and Tools: .NET, MVC, Android Studio, NodeJS, Flask, Express
+- **Hi-TechWonder eCommerce** (3+ months)
+  - Enterprise e-commerce system
+  - Tech: `ASP.NET` | `C#` | `SQL Server`
+  - [Visit Hi-TechWonder](https://hi-techwonder.com/)
 
-## 💼 Professional Experiences
+- **AquaLovers eCommerce** (3+ months)
+  - Specialized retail platform
+  - Tech: `ASP.NET` | `C#` | `SQL Server`
+  - [Visit AquaLovers](https://www.aqualovers.pt/)
 
-### Mobbi.Pro (Small/Medium Company) (ComputedLife)
-**Duration:** 5 months (Feb 2024 - current)
-**Skills:** SQLServer, ASP.NET, C#
-**Activities:** Fixed flaws, maintained and added new functionalities for the company's main product.
+- **CLAPP - Employee Performance Analysis Tool** (3+ months)
+  - Internal corporate application
+  - Tech: `Node.js` | `Angular` | `TypeScript` | `.NET` | `SQL Server`
+  - Full-stack development of real-time analytics
 
-### Chemzy (Small/Medium Company) (ComputedLife)
-**Duration:** 1 months (Mar 2024 - current)
-**Skills:** SQLServer, ASP.NET, C#
-**Activities:** Fixed flaws, maintained and added new functionalities for the company's costumers ecommerce [Chemzy](https://www.chemzy.pt/).
+### 👨‍💻 Junior Application Developer @ **Prolipol PG** (Jun 2023 - Present)
+- SOLID principles and Design Patterns implementation
+- Code analysis and optimization
+- .NET Framework development
+- Mentoring and code review
 
-### Hi-TechWonder (Small/Medium Company) (ComputedLife)
-**Duration:** 1 months (Mar 2024 - current)
-**Skills:** SQLServer, ASP.NET, C#
-**Activities:** Fixed flaws, maintained and added new functionalities for the company's costumers ecommerce [Hi-TechWonder](https://hi-techwonder.com/).
+### 🏢 Backend Intern @ **Comofa Technology** (Oct 2021 - Jan 2022)
+- MVC pattern implementation
+- Android development for mobile solutions
+- Software development planning and strategy
 
-### AquaLovers (Small/Medium Company) (ComputedLife)
-**Duration:** 1 months (Feb 2024 - current)
-**Skills:** SQLServer, ASP.NET, C#
-**Activities:** Fixed flaws, maintained and added new functionalities for the company's costumers ecommerce [Aqualovers](https://www.aqualovers.pt/).
+---
 
-### CLAPP (Small/Medium Company) (ComputedLife)
-**Duration:** 3 months (Jan 2024 - current)
-**Skills:** Node.js, SQLServer, .NET, ASP.NET, Angular, TypeScript, C#
-**Activities:** Fixed flaws, maintained and added new functionalities for the company's internal app for employees performance analysis.
+## 🚀 Featured Projects
 
-### Momento24 (Freelancer)
-**Duration:** 1 month (Sep - Oct 2023)
-**Skills:** API, Node.js, PostgreSQL, Express
-**Activities:** Designed and implemented an updated news API for the website [Momento24](https://www.momento24.co.ao).
+### 🎬 **WUTA TV Platform**
+Streaming entertainment platform with backend API
+- **Frontend**: [`wuta-tv-app`](https://github.com/girozetto/wuta-tv-app)
+- **Backend**: [`wuta-tv-api`](https://github.com/girozetto/wuta-tv-api)
+- **Tech**: TypeScript, Node.js, React
 
-### PMESalarios (Small/Medium Company) (Virtualnauta)
-**Duration:** 4 months (Sep 2023 - Jan 2024)
-**Skills:** ASP.NET MVC, VB .NET, JavaScript, API
-**Activities:** Fixed flaws and maintained the Portuguese salary processing system on the site [PMESalarios](https://processamentodesalarios.pt).
+### 🎬 **WUTA V2 Platform**
+Next-generation streaming application
+- **Frontend**: [`wuta-v2-app`](https://github.com/girozetto/wuta-v2-app)
+- **Backend**: [`wuta-v2-api`](https://github.com/girozetto/wuta-v2-api)
+- **Tech**: TypeScript, Node.js, Modern Stack
 
-### InoveBox - Email Client (Small/Medium Company) (Virtualnauta)
-**Duration:** 3 months (Jul - Sep 2023)
-**Skills:** VB .NET, Design Pattern, Desktop, API
-**Activities:** Created a Desktop application that consumes the Gmail API for a business environment.
+### 🚗 **Car Rental Management System**
+Complete car rental platform
+- **Frontend**: [`car-rental-app`](https://github.com/girozetto/car-rental-app)
+- **Backend**: [`car-rental-api`](https://github.com/girozetto/car-rental-api)
+- **Tech**: TypeScript, Node.js, Express
 
-### Tômbola - Luck Game (Freelancer)
-**Duration:** 2 months (Jun - Aug 2023)
-**Skills:** Express, Node.js, Bootstrap, MVC
-**Activities:** Conceptualized and implemented a luck game for a betting establishment.
+### 💬 **LLBChat - AI Chat Interface**
+Angular app for Ollama API integration
+- **Repo**: [`llbchat`](https://github.com/girozetto/llbchat)
+- **Tech**: TypeScript, Angular, AI Integration
 
-### Personal Portfolio (Personal Project)
-**Duration:** 1 month (Apr - May 2023)
-**Skills:** JavaScript, HTML, Vanilla, Bootstrap
-**Activities:** Developed my personal portfolio, available at [GilPortfolio](http://gilportfolio.rf.gd/).
+### 📱 **Tombola Agents App**
+Flutter mobile app for lottery agents
+- **Repo**: [`agents_tombola_app`](https://github.com/girozetto/agents_tombola_app)
+- **Tech**: Flutter, Dart, Mobile Development
 
-### Blue Red Go (Personal Project)
-**Duration:** 1 month (Oct - Nov 2022)
-**Skills:** Java, Java
-**Activities:** Created a mini-game in Java, visually similar to the old GTA on Game Boy.
+### 📚 **Lenga Edu**
+Educational mobile application
+- **Repo**: [`lenga_edu`](https://github.com/girozetto/lenga_edu)
+- **Tech**: Flutter, Dart
+- ⭐ 1 Star
 
-### Ball Launching Game (Personal Project)
-**Duration:** 1 month (Aug - Sep 2022)
-**Skills:** JavaScript, HTML
-**Activities:** Developed a ball launching game using web technologies with MatterJS and pure JavaScript utilizing Object-Oriented Programming.
+### 💳 **Fiscaura Tax Scanner**
+Tax scanning and processing mobile app
+- **Repo**: [`fiscaura_tax_scanner`](https://github.com/girozetto/fiscaura_tax_scanner)
+- **Tech**: Flutter, Dart
 
-### ChinjeuAPP (Freelancer)
-**Duration:** 1 month (May - Jun 2022)
-**Skills:** PHP, Ajax, JavaScript, MySQL
-**Activities:** Developed a CRUD application for registering crime suspects.
+### 💰 **MabangoPay App**
+Payment processing mobile application
+- **Repo**: [`mabango_pay_is_cool_app`](https://github.com/girozetto/mabango_pay_is_cool_app)
+- **Tech**: Flutter, Dart
 
-### Glóbulos V (Freelancer)
-**Duration:** 3 months (Dec 2021 - Mar 2022)
-**Skills:** Java, XML, Android Studio, SQLite
-**Activities:** Developed an Android app using Java and Android Studio with XML annotations for visual treatment.
+### 🎰 **Tombola V2 Game**
+Interactive lottery game platform
+- **Repo**: [`TombolaV2-Game`](https://github.com/girozetto/TombolaV2-Game)
+- **Tech**: JavaScript, CSS, HTML
 
-### Espaço Quissanga (Freelancer)
-**Duration:** 5 months (Oct 2021 - Mar 2022)
-**Skills:** Java, Desktop, Design Pattern, MySQL
-**Activities:** Developed a management system for a lodge and party hall.
+### 🏋️ **FitBoxManager**
+Fitness center management system
+- **Repo**: [`FitBoxManager`](https://github.com/girozetto/FitBoxManager)
+- **Tech**: JavaScript
 
-## 🚀 Objective
-To continue growing professionally, contributing to innovative projects and making a difference in the technology industry.
+### 🧒 **Nannies for Hire**
+Childcare services platform
+- **Repo**: [`nannies_for_hire`](https://github.com/girozetto/nannies_for_hire)
+- **Tech**: SCSS, Frontend
 
-## 📫 Contacts and Social Media
-- Email: [gilberto.alexandre@girozetto.com](mailto:julbertoalexandredealmeida@gmail.com)
-- LinkedIn: [linkedin.com/in/gilbertoalexandre](https://www.linkedin.com/in/gilberto-alexandre-adao-430ba224a/)
-- GitHub: [github.com/GilbertoAlexandre](https://github.com/girozetto)
-- Fiverr: [fiverr.com/GilbertoAlexandre](https://www.fiverr.com/girozetto)
+### 💡 **Biokamba System**
+Intelligent ATM with multimodal biometric authentication
+- **Repo**: [`Biokamba_System`](https://github.com/Filipy047/Biokamba_System)
+- **Description**: Secure banking transactions with fingerprint, facial recognition, and card/PIN authentication
+- **Tech**: JavaScript
+- ⭐ 1 Star
 
-Level in http://codewars.com<br>
-![alt text](https://www.codewars.com/users/GiroZetto/badges/large "Codewars 5kyu 455")<br>
+### 🤖 **Codex AI Company Agent**
+AI-powered business agent system
+- **Repo**: [`codex-ai-company-agent`](https://github.com/girozetto/codex-ai-company-agent)
+- **Tech**: JavaScript, AI
+
+### 📰 **Momento24 News API** (Freelance)
+Updated news API for news website
+- **Duration**: Sep - Oct 2023 (1 month)
+- **Tech**: Node.js, Express, PostgreSQL
+- **Live Site**: [Momento24](https://www.momento24.co.ao)
+
+### 💼 **PMESalarios - Portuguese Payroll System** (Freelance)
+Salary processing system for Portuguese SMEs
+- **Duration**: Sep 2023 - Jan 2024 (4 months)
+- **Tech**: ASP.NET MVC, VB.NET, JavaScript, API
+- **Live Site**: [PMESalarios](https://processamentodesalarios.pt)
+
+### 📧 **InoveBox Email Client** (Freelance)
+Desktop email client consuming Gmail API
+- **Duration**: Jul - Sep 2023 (3 months)
+- **Tech**: VB.NET, Design Patterns, Gmail API
+
+### 🎲 **Tômbola Luck Game** (Freelance)
+Interactive betting game platform
+- **Duration**: Jun - Aug 2023 (2 months)
+- **Tech**: Node.js, Express, Bootstrap, MVC
+
+### 🔓 **ChinjeuAPP** (Freelance)
+CRUD application for crime suspect registration
+- **Duration**: May - Jun 2022 (1 month)
+- **Tech**: PHP, JavaScript, MySQL, AJAX
+
+### 📱 **Glóbulos V** (Freelance)
+Android app for mobile solutions
+- **Duration**: Dec 2021 - Mar 2022 (3 months)
+- **Tech**: Java, Android Studio, SQLite, XML
+
+### 🏨 **Espaço Quissanga Management System** (Freelance)
+Hotel and event space management system
+- **Duration**: Oct 2021 - Mar 2022 (5 months)
+- **Tech**: Java, MySQL, Design Patterns, Desktop Development
+
+### 🌐 **Personal Portfolio**
+Professional portfolio showcase
+- **Repo**: [`portfolio`](https://github.com/girozetto/portfolio)
+- **Tech**: PHP
+- ⭐ 1 Star
+
+---
+
+## 📊 My Codewars Profile
+
+![Codewars Badge](https://www.codewars.com/users/GiroZetto/badges/large)
+
+**Level: 5 kyu** | Problem Solving & Algorithm Expertise
+
+---
+
+## 📈 GitHub Statistics
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=girozetto&layout=compact&theme=dark)
+
+---
+
+## 🎯 Current Focus
+
+- 🔄 Full Stack TypeScript Development
+- 🚀 Cloud-native Applications with Node.js
+- 📱 Cross-platform Mobile Apps with Flutter
+- 🤖 AI Integration & Intelligent Systems
+- 🏗️ Scalable Architecture Design
+
+---
+
+## 📚 Always Learning
+
+- Advanced TypeScript patterns
+- Cloud architectures (AWS, Azure)
+- Microservices development
+- DevOps and CI/CD pipelines
+- AI/ML integration in applications
+
+---
+
+## 📞 Get in Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_Email-gilberto.alexandre%40girozetto.com-red?style=for-the-badge)](mailto:gilberto.alexandre@girozetto.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Gilberto_Alexandre-blue?style=for-the-badge)](https://www.linkedin.com/in/gilberto-alexandre-adao-430ba224a/)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-@girozetto-black?style=for-the-badge)](https://github.com/girozetto)
+[![Fiverr](https://img.shields.io/badge/💰_Fiverr-@girozetto-1DBF73?style=for-the-badge)](https://www.fiverr.com/girozetto)
+[![Codewars](https://img.shields.io/badge/⚔️_Codewars-GiroZetto-success?style=for-the-badge)](https://www.codewars.com/users/GiroZetto)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 If you like my work, consider giving my repositories a star! 🌟
+
+**Made with ❤️ by Gilberto Alexandre**
+
+</div>
