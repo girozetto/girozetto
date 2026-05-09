@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** with a strong background in building scalable applications across multiple platforms. I love turning complex ideas into elegant, efficient solutions using modern technologies. Currently focused on **TypeScript**, **Node.js**, and **Cloud Development**.
+I'm a passionate **Full Stack Developer** with a strong background in building scalable applications across multiple platforms. I love turning complex ideas into elegant, efficient solutions using modern technologies. Currently focused on **TypeScript**, **Node.js**, **NestJS**, and **Cloud Development**.
 
 - 🎓 Bachelor's in Computer Science - University of Technology of Angola (2020 - 2025)
 - 🏢 Software Developer @ **ComputedLife** (2024 - Present)
@@ -41,6 +41,7 @@ I'm a passionate **Full Stack Developer** with a strong background in building s
 
 ### 🔧 Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white&style=flat-square)
@@ -110,6 +111,11 @@ I'm a passionate **Full Stack Developer** with a strong background in building s
 
 ## 🚀 Featured Projects
 
+### 💼 **Yeli Soft**
+Modern software solution platform
+- **Repo**: [`yeli-soft`](https://github.com/girozetto/yeli-soft)
+- **Tech**: TypeScript, NestJS, Full Stack
+
 ### 🎬 **WUTA TV Platform**
 Streaming entertainment platform with backend API
 - **Frontend**: [`wuta-tv-app`](https://github.com/girozetto/wuta-tv-app)
@@ -120,7 +126,7 @@ Streaming entertainment platform with backend API
 Next-generation streaming application
 - **Frontend**: [`wuta-v2-app`](https://github.com/girozetto/wuta-v2-app)
 - **Backend**: [`wuta-v2-api`](https://github.com/girozetto/wuta-v2-api)
-- **Tech**: TypeScript, Node.js, Modern Stack
+- **Tech**: TypeScript, Node.js, NestJS
 
 ### 🚗 **Car Rental Management System**
 Complete car rental platform
@@ -242,11 +248,12 @@ Professional portfolio showcase
 
 ## 🎯 Current Focus
 
-- 🔄 Full Stack TypeScript Development
+- 🔄 Full Stack TypeScript Development with NestJS
 - 🚀 Cloud-native Applications with Node.js
 - 📱 Cross-platform Mobile Apps with Flutter
 - 🤖 AI Integration & Intelligent Systems
 - 🏗️ Scalable Architecture Design
+- 🎯 Enterprise Application Development
 
 ---
 
@@ -254,9 +261,10 @@ Professional portfolio showcase
 
 - Advanced TypeScript patterns
 - Cloud architectures (AWS, Azure)
-- Microservices development
+- Microservices development with NestJS
 - DevOps and CI/CD pipelines
 - AI/ML integration in applications
+- GraphQL & Advanced API Design
 
 ---
 
