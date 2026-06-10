@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** with a strong background in building scalable applications across multiple platforms. I love turning complex ideas into elegant, efficient solutions using modern technologies. Currently focused on **TypeScript**, **Node.js**, **NestJS**, and **Cloud Development**.
+I'm a passionate **Full Stack Developer** with a strong background in building scalable applications across multiple platforms. I love turning complex ideas into elegant, efficient solutions using modern technologies.
 
 - 🎓 Bachelor's in Computer Science - University of Technology of Angola (2020 - 2025)
 - 🏢 Software Developer @ **ComputedLife** (2024 - Present)
@@ -73,27 +73,27 @@ I'm a passionate **Full Stack Developer** with a strong background in building s
 #### Key Projects:
 - **Mobbi.Pro** (5+ months)
   - Core product maintenance and enhancement
-  - Tech: `ASP.NET` | `C#` | `SQL Server`
+  - Tech: ASP.NET, C#, SQL Server
   - Implemented new features and fixed critical bugs
 
 - **Chemzy eCommerce** (3+ months)
   - Complete eCommerce platform maintenance
-  - Tech: `ASP.NET` | `C#` | `SQL Server`
+  - Tech: ASP.NET, C#, SQL Server
   - [Visit Chemzy](https://www.chemzy.pt/)
 
 - **Hi-TechWonder eCommerce** (3+ months)
   - Enterprise e-commerce system
-  - Tech: `ASP.NET` | `C#` | `SQL Server`
+  - Tech: ASP.NET, C#, SQL Server
   - [Visit Hi-TechWonder](https://hi-techwonder.com/)
 
 - **AquaLovers eCommerce** (3+ months)
   - Specialized retail platform
-  - Tech: `ASP.NET` | `C#` | `SQL Server`
+  - Tech: ASP.NET, C#, SQL Server
   - [Visit AquaLovers](https://www.aqualovers.pt/)
 
 - **CLAPP - Employee Performance Analysis Tool** (3+ months)
   - Internal corporate application
-  - Tech: `Node.js` | `Angular` | `TypeScript` | `.NET` | `SQL Server`
+  - Tech: Node.js, Angular, TypeScript, .NET, SQL Server
   - Full-stack development of real-time analytics
 
 ### 👨‍💻 Junior Application Developer @ **Prolipol PG** (Jun 2023 - Present)
@@ -111,122 +111,145 @@ I'm a passionate **Full Stack Developer** with a strong background in building s
 
 ## 🚀 Featured Projects
 
-### 💼 **Yeli Soft**
-Modern software solution platform
-- **Repo**: [`yeli-soft`](https://github.com/girozetto/yeli-soft)
-- **Tech**: TypeScript, NestJS, Full Stack
+### 🏆 Recent Active Projects
 
-### 🎬 **WUTA TV Platform**
+#### 💼 Yeli Soft
+Modern multi-tenant SaaS ERP platform for Angolan businesses
+- **Repo**: [girozetto/yeli](https://github.com/girozetto/yeli)
+- **Tech**: TypeScript (50.9%), Dart (40.1%), Python (0.7%), HTML (6.1%)
+- **Stack**: NestJS Backend, Angular Frontend, Flutter Mobile App
+- **Status**: In Active Development
+- **Description**: Enterprise resource planning solution with multi-module architecture
+
+#### 🚗 RentalGoo - Car Rental Management System
+Complete car rental platform with booking and fleet management
+- **Frontend**: [girozetto/car-rental-app](https://github.com/girozetto/car-rental-app)
+- **Backend**: [girozetto/car-rental](https://github.com/girozetto/car-rental)
+- **Live**: [RentalGoo](https://rentalgoo.com)
+- **Tech**: TypeScript (74.2%), HTML (21.2%), SCSS (4.6%)
+- **Stack**: Modern Frontend Architecture with Express Backend
+
+#### 🎰 Tombola
+Lottery and betting management platform
+- **Repo**: [girozetto/tombola](https://github.com/girozetto/tombola)
+- **Status**: Active Maintenance
+- **Description**: Complete lottery agent and ticket management system
+
+#### 🧾 Fiscaura
+Tax scanning and fiscal document processing system
+- **Repo**: [girozetto/fiscaura](https://github.com/girozetto/fiscaura)
+- **Status**: Active Maintenance
+- **Description**: Mobile-first tax document digitalization and compliance
+
+---
+
+### 📺 WUTA TV Platform
 Streaming entertainment platform with backend API
-- **Frontend**: [`wuta-tv-app`](https://github.com/girozetto/wuta-tv-app)
-- **Backend**: [`wuta-tv-api`](https://github.com/girozetto/wuta-tv-api)
+- **Frontend**: [girozetto/wuta-tv-app](https://github.com/girozetto/wuta-tv-app)
+- **Backend**: [girozetto/wuta-tv-api](https://github.com/girozetto/wuta-tv-api)
 - **Tech**: TypeScript, Node.js, React
 
-### 🎬 **WUTA V2 Platform**
+### 📺 WUTA V2 Platform
 Next-generation streaming application
-- **Frontend**: [`wuta-v2-app`](https://github.com/girozetto/wuta-v2-app)
-- **Backend**: [`wuta-v2-api`](https://github.com/girozetto/wuta-v2-api)
+- **Frontend**: [girozetto/wuta-v2-app](https://github.com/girozetto/wuta-v2-app)
+- **Backend**: [girozetto/wuta-v2-api](https://github.com/girozetto/wuta-v2-api)
 - **Tech**: TypeScript, Node.js, NestJS
 
-### 🚗 **Car Rental Management System**
-Complete car rental platform
-- **Frontend**: [`car-rental-app`](https://github.com/girozetto/car-rental-app)
-- **Backend**: [`car-rental-api`](https://github.com/girozetto/car-rental-api)
-- **Tech**: TypeScript, Node.js, Express
-
-### 💬 **LLBChat - AI Chat Interface**
+### 💬 LLBChat - AI Chat Interface
 Angular app for Ollama API integration
-- **Repo**: [`llbchat`](https://github.com/girozetto/llbchat)
+- **Repo**: [girozetto/llbchat](https://github.com/girozetto/llbchat)
 - **Tech**: TypeScript, Angular, AI Integration
 
-### 📱 **Tombola Agents App**
+### 📱 Tombola Agents App
 Flutter mobile app for lottery agents
-- **Repo**: [`agents_tombola_app`](https://github.com/girozetto/agents_tombola_app)
+- **Repo**: [girozetto/agents_tombola_app](https://github.com/girozetto/agents_tombola_app)
 - **Tech**: Flutter, Dart, Mobile Development
 
-### 📚 **Lenga Edu**
+### 📚 Lenga Edu
 Educational mobile application
-- **Repo**: [`lenga_edu`](https://github.com/girozetto/lenga_edu)
+- **Repo**: [girozetto/lenga_edu](https://github.com/girozetto/lenga_edu)
 - **Tech**: Flutter, Dart
 - ⭐ 1 Star
 
-### 💳 **Fiscaura Tax Scanner**
+### 💳 Fiscaura Tax Scanner
 Tax scanning and processing mobile app
-- **Repo**: [`fiscaura_tax_scanner`](https://github.com/girozetto/fiscaura_tax_scanner)
+- **Repo**: [girozetto/fiscaura_tax_scanner](https://github.com/girozetto/fiscaura_tax_scanner)
 - **Tech**: Flutter, Dart
 
-### 💰 **MabangoPay App**
+### 💰 MabangoPay App
 Payment processing mobile application
-- **Repo**: [`mabango_pay_is_cool_app`](https://github.com/girozetto/mabango_pay_is_cool_app)
+- **Repo**: [girozetto/mabango_pay_is_cool_app](https://github.com/girozetto/mabango_pay_is_cool_app)
 - **Tech**: Flutter, Dart
 
-### 🎰 **Tombola V2 Game**
+### 🎲 Tombola V2 Game
 Interactive lottery game platform
-- **Repo**: [`TombolaV2-Game`](https://github.com/girozetto/TombolaV2-Game)
-- **Tech**: JavaScript, CSS, HTML
+- **Repo**: [girozetto/TombolaV2-Game](https://github.com/girozetto/TombolaV2-Game)
+- **Tech**: CSS (52.1%), JavaScript (44.3%), EJS (1.9%), HTML (1.7%)
+- **Status**: Completed
 
-### 🏋️ **FitBoxManager**
+### 🏋️ FitBoxManager
 Fitness center management system
-- **Repo**: [`FitBoxManager`](https://github.com/girozetto/FitBoxManager)
-- **Tech**: JavaScript
+- **Repo**: [girozetto/FitBoxManager](https://github.com/girozetto/FitBoxManager)
+- **Tech**: JavaScript (36.1%), CSS (34.6%), SCSS (13.1%), TypeScript (6.4%)
+- **Status**: Completed
 
-### 🧒 **Nannies for Hire**
+### 🧒 Nannies for Hire
 Childcare services platform
-- **Repo**: [`nannies_for_hire`](https://github.com/girozetto/nannies_for_hire)
+- **Repo**: [girozetto/nannies_for_hire](https://github.com/girozetto/nannies_for_hire)
 - **Tech**: SCSS, Frontend
 
-### 💡 **Biokamba System**
+### 💡 Biokamba System
 Intelligent ATM with multimodal biometric authentication
-- **Repo**: [`Biokamba_System`](https://github.com/Filipy047/Biokamba_System)
+- **Repo**: [Filipy047/Biokamba_System](https://github.com/Filipy047/Biokamba_System)
 - **Description**: Secure banking transactions with fingerprint, facial recognition, and card/PIN authentication
 - **Tech**: JavaScript
 - ⭐ 1 Star
 
-### 🤖 **Codex AI Company Agent**
+### 🤖 Codex AI Company Agent
 AI-powered business agent system
-- **Repo**: [`codex-ai-company-agent`](https://github.com/girozetto/codex-ai-company-agent)
+- **Repo**: [girozetto/codex-ai-company-agent](https://github.com/girozetto/codex-ai-company-agent)
 - **Tech**: JavaScript, AI
 
-### 📰 **Momento24 News API** (Freelance)
+### 📰 Momento24 News API (Freelance)
 Updated news API for news website
 - **Duration**: Sep - Oct 2023 (1 month)
 - **Tech**: Node.js, Express, PostgreSQL
 - **Live Site**: [Momento24](https://www.momento24.co.ao)
 
-### 💼 **PMESalarios - Portuguese Payroll System** (Freelance)
+### 💼 PMESalarios - Portuguese Payroll System (Freelance)
 Salary processing system for Portuguese SMEs
 - **Duration**: Sep 2023 - Jan 2024 (4 months)
 - **Tech**: ASP.NET MVC, VB.NET, JavaScript, API
 - **Live Site**: [PMESalarios](https://processamentodesalarios.pt)
 
-### 📧 **InoveBox Email Client** (Freelance)
+### 📧 InoveBox Email Client (Freelance)
 Desktop email client consuming Gmail API
 - **Duration**: Jul - Sep 2023 (3 months)
 - **Tech**: VB.NET, Design Patterns, Gmail API
 
-### 🎲 **Tômbola Luck Game** (Freelance)
+### 🎲 Tômbola Luck Game (Freelance)
 Interactive betting game platform
 - **Duration**: Jun - Aug 2023 (2 months)
 - **Tech**: Node.js, Express, Bootstrap, MVC
 
-### 🔓 **ChinjeuAPP** (Freelance)
+### 🔓 ChinjeuAPP (Freelance)
 CRUD application for crime suspect registration
 - **Duration**: May - Jun 2022 (1 month)
 - **Tech**: PHP, JavaScript, MySQL, AJAX
 
-### 📱 **Glóbulos V** (Freelance)
+### 📱 Glóbulos V (Freelance)
 Android app for mobile solutions
 - **Duration**: Dec 2021 - Mar 2022 (3 months)
 - **Tech**: Java, Android Studio, SQLite, XML
 
-### 🏨 **Espaço Quissanga Management System** (Freelance)
+### 🏨 Espaço Quissanga Management System (Freelance)
 Hotel and event space management system
 - **Duration**: Oct 2021 - Mar 2022 (5 months)
 - **Tech**: Java, MySQL, Design Patterns, Desktop Development
 
-### 🌐 **Personal Portfolio**
+### 🌐 Personal Portfolio
 Professional portfolio showcase
-- **Repo**: [`portfolio`](https://github.com/girozetto/portfolio)
+- **Repo**: [girozetto/portfolio](https://github.com/girozetto/portfolio)
 - **Tech**: PHP
 - ⭐ 1 Star
 
