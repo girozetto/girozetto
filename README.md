@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** with a strong background in building scalable applications across multiple platforms. I love turning complex ideas into elegant, efficient solutions using modern technologies.
+I'm a passionate **Full Stack Developer** with a strong background in building scalable applications across multiple platforms. I love turning complex ideas into elegant, efficient solutions using modern technologies and best practices.
 
 - 🎓 Bachelor's in Computer Science - University of Technology of Angola (2020 - 2025)
 - 🏢 Software Developer @ **ComputedLife** (2024 - Present)
@@ -111,7 +111,73 @@ I'm a passionate **Full Stack Developer** with a strong background in building s
 
 ## 🚀 Featured Projects
 
-### 🏆 Recent Active Projects
+### 🏆 Flagship Project: SONA
+
+#### 📍 **SONA** — Gestão de Facturas & Conformidade Fiscal
+*Monorepo: NestJS + Angular + Flutter + SQLite*
+
+**Plataforma completa para emissão, assinatura digital e conformidade fiscal em Angola (AGT/SAF-T).**
+
+- **[sona-api](https://github.com/girozetto/sona-api)** — NestJS + TypeORM + SQLite
+  - Emissão e assinatura digital de facturas
+  - Integração com AGT (Autoridade Geral Tributária)
+  - Exportação SAF-T
+  - Cálculos fiscais precisos (IVA, retenções, descontos)
+  - Tech: TypeScript (99.7%)
+
+- **[sona-web-app](https://github.com/girozetto/sona-web-app)** — Angular + Tailwind
+  - Dashboard de vendas e gestão de clientes
+  - Emissão de facturas em tempo real
+  - Formulários reactivos e acessíveis (WCAG AA)
+  - Integração com API de cálculos fiscais
+  - Tech: TypeScript (99.5%)
+
+- **[sona_mobile_app](https://github.com/girozetto/sona_mobile_app)** — Flutter
+  - App nativa para iOS e Android
+  - Sincronização offline-first
+  - Captura de dados de vendas em loja
+  - Tech: Dart (71.4%) + C++ (14.3%)
+
+- **[sona-assets](https://github.com/girozetto/sona-assets)** — Documentação & Design
+  - Plano evolutivo detalhado
+  - Especificações técnicas
+  - Guias de integração
+
+📍 **[sona.nzayilu.com](https://sona.nzayilu.com/)**
+
+---
+
+### 💼 Commercial Applications
+
+#### **Papalouca** — Marketplace de Produtos Artesanais
+📍 [papalouca.pt](https://www.papalouca.pt/)
+
+#### **Babysitters com Amor** — Plataforma de Cuidadores
+📍 [babysitterscomamor.pt](https://babysitterscomamor.pt/)
+
+#### **PCEM** — Plataforma Comercial Especializada
+📍 [pcem.pt](https://pcem.pt/)
+- 📱 iOS: [App Store](https://apps.apple.com/us/app/pcem/id6776672404)
+- 📱 Android: [Google Play](https://play.google.com/store/apps/details?id=com.megatic.pcem)
+
+#### **FiscAura Mobile App** — Scanner Fiscal
+🔹 Flutter App com OCR para facturas
+
+#### **MuvOn App** — Gestão de Mobilidade
+🔹 Flutter App de logística e transportes
+
+#### **MyHub OSP by TDGI** — Plataforma de Serviços
+📍 [App Store](https://apps.apple.com/us/app/myhub-osp-by-tdgi/id6761268046) | [Google Play](https://play.google.com/store/apps/details?id=com.mobbipro.myhub)
+
+#### **Mobbi.Pro** — Plataforma de Mobilidade
+📱 [Google Play](https://play.google.com/store/apps/details?id=com.mobbipro.core)
+
+#### **WTC Lisboa** — Gestão de Estacionamento
+📱 [Google Play](https://play.google.com/store/apps/details?id=com.mobbipro.wtc)
+
+---
+
+### 📱 Other Active Projects
 
 #### 💼 Yeli Soft
 Modern multi-tenant SaaS ERP platform for Angolan businesses
@@ -169,12 +235,14 @@ Flutter mobile app for lottery agents
 Educational mobile application
 - **Repo**: [girozetto/lenga_edu](https://github.com/girozetto/lenga_edu)
 - **Tech**: Flutter, Dart
+- **Stats**: Dart (66%) | C++ (15.3%) | CMake (12%)
 - ⭐ 1 Star
 
 ### 💳 Fiscaura Tax Scanner
 Tax scanning and processing mobile app
 - **Repo**: [girozetto/fiscaura_tax_scanner](https://github.com/girozetto/fiscaura_tax_scanner)
 - **Tech**: Flutter, Dart
+- **Stats**: Dart (69.6%) | C++ (12.7%) | CMake (9.8%)
 
 ### 💰 MabangoPay App
 Payment processing mobile application
@@ -196,7 +264,8 @@ Fitness center management system
 ### 🧒 Nannies for Hire
 Childcare services platform
 - **Repo**: [girozetto/nannies_for_hire](https://github.com/girozetto/nannies_for_hire)
-- **Tech**: SCSS, Frontend
+- **Tech**: SCSS (43.7%) | JavaScript (27.1%) | HTML (21.5%)
+- **Status**: Completed
 
 ### 💡 Biokamba System
 Intelligent ATM with multimodal biometric authentication
@@ -277,6 +346,7 @@ Professional portfolio showcase
 - 🤖 AI Integration & Intelligent Systems
 - 🏗️ Scalable Architecture Design
 - 🎯 Enterprise Application Development
+- 💼 Fiscal & Compliance Solutions (AGT/SAF-T)
 
 ---
 
@@ -288,6 +358,7 @@ Professional portfolio showcase
 - DevOps and CI/CD pipelines
 - AI/ML integration in applications
 - GraphQL & Advanced API Design
+- Fiscal compliance and tax automation
 
 ---
 
